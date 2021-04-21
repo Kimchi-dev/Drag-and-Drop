@@ -1,0 +1,28 @@
+.main-container{
+    background: #f7f7f7;
+    margin: 20px auto;
+    width: 80%;
+    height: 600px;
+    text-align: center;
+}
+
+.sub-container{
+    margin: 20px auto;
+    height: 80%;
+    width: 40%;
+    background: #94da94;
+    transition: .4s;
+}
+
+.sub-container span{
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+    color: #a1a1a1;
+    height: 100%;
+}
+
+.draged {
+    background: #328232;
+    transition: .4s;
+}
