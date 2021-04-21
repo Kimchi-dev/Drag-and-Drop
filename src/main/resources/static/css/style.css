@@ -12,6 +12,8 @@
     width: 40%;
     background: #94da94;
     transition: .4s;
+    border-radius: 30px;
+    display: block;
 }
 
 .sub-container span{
@@ -20,6 +22,7 @@
     font-size: 2em;
     color: #a1a1a1;
     height: 100%;
+    margin: auto 20px;
 }
 
 .draged {
