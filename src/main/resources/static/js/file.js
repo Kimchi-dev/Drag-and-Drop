@@ -12,10 +12,6 @@ const dragLeaveHandler = (e) => {
     $(".sub-container").removeClass("draged")
 }
 
-const dragOverHandler = (e) => {
-    alert("This is drag Over bixxh!")
-    e.preventDefault()
-}
 const dropHandler = (e) => {
     e.preventDefault()
     $(".sub-container").removeClass("draged")
