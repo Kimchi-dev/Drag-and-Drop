@@ -1,6 +1,6 @@
 
 
-![Drag and Drop]({{ "https://kimchi-dev.github.io/assets/img/bloging/javascript/file_upload.gif"}})
+![Drag and Drop](https://kimchi-dev.github.io/assets/img/bloging/javascript/file_upload.gif)
 
 ## File drag and drop
 
