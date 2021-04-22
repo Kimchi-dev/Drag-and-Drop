@@ -1,4 +1,7 @@
 
+
+![Drag and Drop]({{ "https://kimchi-dev.github.io/assets/img/bloging/javascript/file_upload.gif"}})
+
 ## File drag and drop
 
 `HTML`의 Drag and Drop `interface`는 웹페이지에서 파일을 드레그앤 드롭 할 수 있게 합니다. 이 문서는 파일매니저 ( mac 은 finder ,window는 file explorer ) 에서 끌어 웹페이지에 Drop 된 하나 또는 그이상의 파일을 `application`이 허용하는 방법을 설명합니다.
