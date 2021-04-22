@@ -7,25 +7,31 @@
 }
 
 .sub-container{
-    margin: 20px auto;
     height: 80%;
     width: 40%;
-    background: #94da94;
     transition: .4s;
     border-radius: 30px;
     display: block;
+    border: 3px solid #A4A4A4;
+    display: inline-block;
 }
 
 .sub-container span{
-    width: 100%;
-    text-align: center;
     font-size: 2em;
     color: #a1a1a1;
-    height: 100%;
-    margin: auto 20px;
+    margin: 220px 20px;
+    display: inline-block;
 }
 
-.draged {
-    background: #328232;
+.dropped-file-info{
+    display: inline-block;
+}
+
+.dropped-file-info table{
+    border: 2px solid gray;
+}
+
+.dragged {
+    background: #cfcfcf;
     transition: .4s;
 }
